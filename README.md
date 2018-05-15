@@ -9,7 +9,7 @@ In the second phase, pre-processing of text data is done.
 
 In the last phase, classification model was trained using XGBoost and some parameters were tuned for performance enhancement.
 
-The models were trained on Microsoft Azure VM running Linux Ubuntu with 32 GB RAM and 4 processing cores.
+The models were trained on Microsoft Azure VM running Linux Ubuntu with 32 GB RAM and 4 processing cores. Project was implemented in R.
 
 -- toxicCommentClassifEADFinal.R contain the  exploratory data analysis
 
