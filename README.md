@@ -10,3 +10,9 @@ In the second phase, pre-processing of text data is done.
 In the last phase, classification model was trained using XGBoost and some parameters were tuned for performance enhancement.
 
 The models were trained on Microsoft Azure VM running Linux Ubuntu with 32 GB RAM and 4 processing cores.
+
+-- toxicCommentClassifEADFinal.R contain the  exploratory data analysis
+
+-- xgboostClassifFinal has model training and testing.
+
+-- Toxic Comment Classification Report.pdf is the full project report with detailed analysis.
